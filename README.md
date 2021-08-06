@@ -22,11 +22,11 @@ This is the solution to the task 1 challenge clone the work of Traversy Media
 
 ### Desktop
 
-![]()
+![](https://github.com/Karllouise-code/css3-intermediate/blob/task1/images/desktop-fullscreenshot.png)
 
 ### Mobile
 
-![]()
+![](https://github.com/Karllouise-code/css3-intermediate/blob/task1/images/mobile-fullscreenshot.png)
 
 ## What I Learned
 
