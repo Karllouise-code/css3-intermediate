@@ -1,0 +1,14 @@
+Instruction:
+Please you can use any images of your choice. Just try your best to design as close to the 
+sample as possible. Ask questions too when in doubt.
+Design both the mobile and desktop views.
+ 
+Note: The sample project is a property of Traversy Media so I have no official right to it. It
+is only used for learning purpose.
+
+Color Properties
+Hero image overlay- #2E2F2C or rgb(46,4744)
+Gray- #EAEAEA or rgb(234,234,234)
+Blue- #2690D4 or rgb(38,144,212)
+Dark Gray- #333333 or rgb(51,51,51)
+Black- #000000 or rgb(0,0,0)
