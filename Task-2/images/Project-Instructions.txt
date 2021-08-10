@@ -1,0 +1,19 @@
+Instruction:
+You are to develop a Testimonial section. Just try your best to design as close to the 
+sample as possible. Use any random profile image of your choice. Ask questions too when in doubt.
+Lorem text:
+Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. 
+Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. 
+Quia fugiat sit in iste officiis commodi quidem hic quas.
+
+(Use any random lorem text of your choice for the profiles.)
+
+Development:
+Design both the mobile and desktop views so it can be responsive on phone.
+ 
+Note: The sample project is a property of Bootstrap 5 so I have no official right to it. It
+is only used for learning purpose.
+
+Color Properties
+Background- #F2F5FA or rgb(242,245,250)
+Blue- #5777BA or rgb(87,119,186)
