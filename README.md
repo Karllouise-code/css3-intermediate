@@ -7,3 +7,5 @@ Kindly click on the links or change branch to see my progress as well as the
 live site.
 
 ### [TASK 1](https://github.com/Karllouise-code/css3-intermediate/tree/task1)
+
+### [TASK 2](https://github.com/Karllouise-code/css3-intermediate/tree/task2)
