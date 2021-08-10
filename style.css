@@ -5,13 +5,17 @@
     font-family: 'objectivity';
 }
 
+body {
+    background: #f2f5fa;
+
+}
+
+
 header {
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: center;
-    background: #f2f5fa;
-    height: 100vh;
 }
 
 .header-container {
