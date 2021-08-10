@@ -7,7 +7,6 @@
 
 body {
     background: #f2f5fa;
-
 }
 
 
@@ -16,6 +15,7 @@ header {
     align-items: center;
     align-content: center;
     justify-content: center;
+    height: 100vh;
 }
 
 .header-container {
@@ -66,7 +66,7 @@ blockquote:after {
     position: absolute;
     content: close-quote;
     font-size: 5em;
-    inset: 90% ​0 0 86%;
+    inset: 90% â€‹0 0 86%;
     opacity: 0.2;
 }
 
