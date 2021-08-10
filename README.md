@@ -32,6 +32,6 @@ This is the solution to the task 2 challenge clone the given challenge [here](ht
 
 On this task, my knowledge of building websites using only HTML and CSS has improved. And I feel to myself that I became faster in building websites because of this challenge.
 
-## Links
+## Link
 
 Live Site - <https://klr-testimonial.netlify.app/>
