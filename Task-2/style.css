@@ -5,13 +5,16 @@
     font-family: 'objectivity';
 }
 
+body {
+    background: #f2f5fa;
+}
+
+
 header {
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: center;
-    background: #f2f5fa;
-    height: 100vh;
 }
 
 .header-container {
@@ -21,7 +24,6 @@ header {
 }
 
 h1 {
-    font-style: initial;
     color: #6f8ac3;
     padding: 2rem;
     font-weight: lighter;
@@ -47,26 +49,29 @@ blockquote {
     position: relative;
     font-style: italic;
     margin-top: 1em;
+    font-size: .8rem;
 }
 
-blockquote:before {
+ blockquote:before {
     position: absolute;
     content: open-quote;
-    font-size: 4em;
-    inset: -23% 0% 0% -5%;
-    opacity: 0.5;
+    font-size: 5em;
+    margin-left: -0.3em;
+    margin-top: -0.4em;
+    opacity: 0.2;
 }
 
 blockquote:after {
     position: absolute;
     content: close-quote;
-    font-size: 4em;
-    inset: 90% ​0 0 86%;
-    opacity: 0.5;
+    font-size: 5em;
+    inset: 90% â€‹0 0 86%;
+    opacity: 0.2;
 }
 
 blockquote p {
     display: inline;
+    opacity: .8;
 }
 
 .first,
